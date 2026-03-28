@@ -1,3 +1,5 @@
+> **For the information, everything in this repo was 100% wrote by me. Although, English is not my first language, therefore, I gave it to chatgpt to correct it, to add emojis to make it more alive and to add correct words as some were written in french. Thanks for the understanding**  
+
 # 🚀 The Complete Local AI Journey: A Beginner's Comprehensive Guide
 
 > **Your Essential Starter Kit for Local AI Development**  
